@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\student_java\semi2_wishjam\.metadata\.plugins\org.eclipse.jdt.core
+1128146213.index
+328696625.index
+1865797976.index

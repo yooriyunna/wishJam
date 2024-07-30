@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\student_java\semi2_wishjam\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+328696625.index
